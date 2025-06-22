@@ -9,20 +9,19 @@ You can view the live website here: ([https://REDDIKAVYA.github.io/My-Portfolio-
 # 📁 Project Structure
 portfolio-website/
 │
-├── index.html # Main landing page
-├── about.html # About me section
-├── projects.html # Portfolio projects page
-├── contact.html # Contact form and details
-│
+├── index.html
+├── about.html 
+├── projects.html 
+├── contact.html 
 ├── css/
-│ └── style.css # Custom styling
+│ └── style.css 
 │
 ├── js/
-│ └── script.js # JavaScript for interactivity
+│ └── script.js
 │
 └── assets/
-├── images/ # Images and icons
-└── resume.pdf # Optional downloadable resume
+├── images/ 
+└── resume.pdf 
 
 
 # 💡 Features
@@ -49,4 +48,5 @@ To run this project locally:
 
 # 🙋‍♀️ Author
 Kavya Reddy
-[LinkedIn](https://www.linkedin.com/in/kavya-reddy-001479259) •[ GitHub](https://github.com/REDDIKAVYA) •[ E mail] (reddykavya1675@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/kavya-reddy-001479259) •[ GitHub](https://github.com/REDDIKAVYA) • reddykavya1675@gmail.com
