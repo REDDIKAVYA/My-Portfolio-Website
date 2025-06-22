@@ -7,8 +7,9 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 You can view the live website here: ([https://REDDIKAVYA.github.io/My-Portfolio-Website](http://127.0.0.1:5500/inex.html))
 
 # 📁 Project Structure
-portfolio-website/
+portfolio-website
 │
+
 ├── index.html
 
 ├── about.html
@@ -17,15 +18,18 @@ portfolio-website/
 
 ├── contact.html
 
-├── css/
-│ └── style.css
-│
-├── js/
-│ └── script.js
-│
-└── assets/
+├── css
 
-├── images/ 
+│ └── style.css
+
+├── js
+
+│ └── script.js
+
+
+└── assets
+
+├── images 
 
 └── resume.pdf 
 
