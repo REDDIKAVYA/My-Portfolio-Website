@@ -10,17 +10,23 @@ You can view the live website here: ([https://REDDIKAVYA.github.io/My-Portfolio-
 portfolio-website/
 │
 ├── index.html
-├── about.html 
-├── projects.html 
-├── contact.html 
+
+├── about.html
+
+├── projects.html
+
+├── contact.html
+
 ├── css/
-│ └── style.css 
+│ └── style.css
 │
 ├── js/
 │ └── script.js
 │
 └── assets/
+
 ├── images/ 
+
 └── resume.pdf 
 
 
